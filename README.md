@@ -1,1 +1,1 @@
-# QRM-Engine
+# Quantitative Research Model - Engine
